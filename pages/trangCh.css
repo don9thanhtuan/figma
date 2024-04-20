@@ -1,0 +1,1396 @@
+html {
+  font-size: 10.65px; /* Thiết lập kích thước phông chữ cho phần tử gốc là 8px */
+}
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+
+.trang-ch .ho-du-book {
+  margin: 0 3.3rem 1.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .trang-ch-1 {
+  margin: 2.8rem 4.4rem 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.trang-ch .ca-hng {
+  margin: 2.8rem 0.3rem 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.trang-ch .vector {
+  width: 0.7rem;
+  height: 0.4rem;
+}
+.trang-ch .uangle-down {
+  margin: 3.6rem 0 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.7rem;
+  height: 0.4rem;
+  box-sizing: border-box;
+}
+.trang-ch .container-31 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.trang-ch .vchng-ti {
+  margin-right: 0.9rem;
+  width: 12.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.trang-ch .lin-hvi-chng-ti {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.trang-ch .container-3 {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 28rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .container-27 {
+  margin-left: 26px;
+  margin-bottom: 0.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 66.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .vector-1 {
+  width: 2.1rem;
+  height: 1.6rem;
+}
+.trang-ch .uheart-sign {
+  margin: 1rem 2.5rem 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.1rem;
+  height: 1.6rem;
+  box-sizing: border-box;
+}
+.trang-ch .vector-2 {
+  width: 1.9rem;
+  height: 1.8rem;
+}
+.trang-ch .ushopping-cart-alt {
+  margin: 0.9rem 2.2rem 0.9rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.8rem;
+  box-sizing: border-box;
+}
+.trang-ch .lin-h {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.trang-ch .group-1 {
+  border-radius: 1.3rem;
+  background: #FFB7B7;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.9rem 0.1rem 0.9rem 0;
+  width: 11.1rem;
+  box-sizing: border-box;
+}
+.trang-ch .container-23 {
+  display: flex;
+  flex-direction: row;
+  width: 19.9rem;
+  box-sizing: border-box;
+}
+.trang-ch .ng-xut {
+  margin: 0.9rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.trang-ch .container-28 {
+  margin: 1.9rem 0rem 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 31.7rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .container-2 {
+  margin: 0 6.4rem 2.1rem 2.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 135.6rem;
+  box-sizing: border-box;
+}
+.trang-ch .line-1 {
+  background: #A9A0A0;
+  margin: 0 6.9rem 2.8rem 2.4rem;
+  width: 135.1rem;
+  height: 0.1rem;
+}
+.trang-ch .ellipse-1 {
+  border-radius: 2.3rem;
+  background: url('../assets/images/ellipse1.png') 50% / cover no-repeat;
+  margin-right: 1.6rem;
+  width: 4.6rem;
+  height: 4.6rem;
+}
+.trang-ch .cho-cng {
+  margin: 0 1.1rem 0.4rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .cuongnggmail-com {
+  margin-left: 0.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.trang-ch .container-5 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.trang-ch .cho-mng {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.trang-ch .option {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .component-1 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.trang-ch .option-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .component-2 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.trang-ch .option-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .component-3 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.trang-ch .option-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .component-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.trang-ch .frame-4 {
+  border-radius: 0.5rem;
+  background: rgba(139, 243, 250, 0.5);
+  position: absolute;
+  top: -17rem;
+  right: -7.9rem;
+  display: flex;
+  flex-direction: column;
+  padding: 0.8rem 1.1rem 0.8rem 0.6rem;
+  width: 20.3rem;
+  height: 17rem;
+  box-sizing: border-box;
+}
+.trang-ch .ch {
+  margin-right: 1.4rem;
+  width: 7.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 2.3rem;
+  color: #3E3434;
+}
+.trang-ch .vector-7 {
+  width: 1.4rem;
+  height: 0.8rem;
+}
+.trang-ch .uangle-down-2 {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.4rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.trang-ch .frame-3 {
+  border-radius: 0.5rem;
+  background: rgba(139, 243, 250, 0.5);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.9rem 1.1rem 0.9rem 0.6rem;
+  width: 12.4rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .component-5 {
+  border-radius: 0.5rem;
+  position: relative;
+  margin-right: 0.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 12.4rem;
+  box-sizing: border-box;
+}
+.trang-ch .vector-4 {
+  width: 0.5rem;
+  height: 0.3rem;
+}
+.trang-ch .uangle-down-1 {
+  position: absolute;
+  left: 9.8rem;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.5rem;
+  height: 0.3rem;
+  box-sizing: border-box;
+}
+.trang-ch .tm-kim-sch {
+  margin: 0.5rem 0.9rem 0 0;
+  display: inline-block;
+  width: 25.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.83);
+}
+.trang-ch .vector-3 {
+  margin-bottom: 0.1rem;
+  width: 2rem;
+  height: 2.2rem;
+}
+.trang-ch .container-24 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.1rem 1.3rem 1.2rem 2.3rem;
+  width: 32rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .ch-vtm-kim {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 32rem;
+  box-sizing: border-box;
+}
+.trang-ch .container-19 {
+  margin-top: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  width: 44.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .container-4 {
+  margin: 0 5.1rem 3.9rem 3.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 135.5rem;
+  box-sizing: border-box;
+}
+.trang-ch .rectangle-6 {
+  background: url('../assets/images/rectangle6.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.trang-ch .hnh-phc-vbn-tnh-con-ngi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .container-6 {
+  border-radius: 5.3rem;
+  background: #F8D8D8;
+  position: relative;
+  margin: 0 4.4rem 7rem 4.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 1.1rem 0rem 1.2rem 0;
+  width: 42.3rem;
+  box-sizing: border-box;
+}
+.trang-ch .image-1 {
+  background: url(../assets/images/image2.png) 50% / contain no-repeat;
+    position: relative;
+    margin-bottom: 4.3rem;
+    width: 60.7rem;
+    height: 39.8rem;
+    left: 7rem;
+}
+.trang-ch .hnh-phc-khng-ch-lmt-trng-thi-tm-thi-mcn-lmt-hnh-trnh-lin-tc-mcon-ngi-cthtc-thng-qua-scn-bng-gia-nhiu-kha-cnh-khc-nhau-ca-cuc-sng {
+  margin: 0px -1.4rem 2.3rem 53.5rem;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 2rem;
+    color: #000000;
+}
+.trang-ch .line-2 {
+  background: #000000;
+  margin: 0 0.4rem 2.3rem 0;
+  width: 37.4rem;
+  height: 0.1rem;
+}
+.trang-ch .gi-bn-360001-cun {
+  margin: 0.7rem 2.5rem 4.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .line-3 {
+  background: #000000;
+  margin-right: 4.2rem;
+  width: 0.1rem;
+  height: 9.9rem;
+}
+.trang-ch .nm-xut-bn-2023 {
+  margin: 0.7rem 0 4.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .container-20 {
+  margin-left: 0.9rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .container-10 {
+  margin-top: 17.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  box-sizing: border-box;
+}
+.trang-ch .container-32 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 116rem;
+  box-sizing: border-box;
+}
+.trang-ch .image-2 {
+  background: url(../assets/images/image2.png) 50% / cover no-repeat;
+  transform: rotate(22.646deg);
+  position: absolute;
+  left: 37.5rem;
+  bottom: 10.8rem;
+  width: 26.8rem;
+  height: 36.8rem;
+}
+.trang-ch .sch-1 {
+  background: url('../assets/images/rectangle6.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-top: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  padding: 9.5rem 12.9rem 4.5rem 4.9rem;
+  width: 133.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .ellipse-2 {
+  border-radius: 2.7rem;
+  background: #F0D0D0;
+  position: absolute;
+  top: 19.6rem;
+  right: 11.8rem;
+  width: 5.3rem;
+  height: 5.3rem;
+}
+.trang-ch .container-4 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .sch-2 {
+  background: url('../assets/images/rectangle10.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-top: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 20.9rem 13.3rem 0 13.3rem;
+  width: 133.8rem;
+  height: 69.9rem;
+  box-sizing: border-box;
+}
+.trang-ch .line-5 {
+  background: #000000;
+  width: 0.1rem;
+  height: 8.3rem;
+}
+.trang-ch .sch-3 {
+  background: url('../assets/images/rectangle12.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 16.6rem 94.2rem 0 0;
+  width: 133.8rem;
+  height: 69.9rem;
+  box-sizing: border-box;
+}
+.trang-ch .b-65256-c-7774806-fdb-986-af-8-f-8098-d-1 {
+  background: url('../assets/images/b65256C7774806Fdb986Af8F8098D1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.trang-ch .cc-di-vtia-nng-dy-duyn {
+  position: relative;
+  margin: 0 2.6rem 11.1rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .cuc-dai-va-tia-nang-53865-d-739-ad-746869-f-641-e-1798-f-32-d-849-b-1-a-5315-f-1-c-04-d-1-fa-7-e-68442-dcd-15881-master-1 {
+  background: url('../assets/images/cucDaiVaTiaNang53865D739Ad746869F641E1798F32D849B1A5315F1C04D1Fa7E68442Dcd15881Master3.jpeg') 50% / cover no-repeat;
+  transform: rotate(-30.674deg);
+  position: relative;
+  margin-right: 0rem;
+  width: 45rem;
+  height: 48.9rem;
+}
+.trang-ch .cuc-dai-va-tia-nang-53865-d-739-ad-746869-f-641-e-1798-f-32-d-849-b-1-a-5315-f-1-c-04-d-1-fa-7-e-68442-dcd-15881-master-2 {
+  background: url('../assets/images/cucDaiVaTiaNang53865D739Ad746869F641E1798F32D849B1A5315F1C04D1Fa7E68442Dcd15881Master3.jpeg') 50% / cover no-repeat;
+  transform: rotate(26.259deg);
+  margin: 0rem 0 0.5rem 0;
+  width: 43.4rem;
+  height: 48.4rem;
+}
+.trang-ch .cuc-dai-va-tia-nang-53865-d-739-ad-746869-f-641-e-1798-f-32-d-849-b-1-a-5315-f-1-c-04-d-1-fa-7-e-68442-dcd-15881-master-3 {
+  background: url('../assets/images/cucDaiVaTiaNang53865D739Ad746869F641E1798F32D849B1A5315F1C04D1Fa7E68442Dcd15881Master3.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 29.6rem;
+  top: 0.6rem;
+  width: 28.8rem;
+  height: 39.8rem;
+}
+.trang-ch .container-22 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 88.5rem;
+  box-sizing: border-box;
+}
+.trang-ch .sch-4 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7.3rem 0 0.3rem 0;
+  width: 133.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .rectangle-61 {
+  background: url('../assets/images/rectangle6.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.trang-ch .bn-chy-nht {
+  position: relative;
+  margin: 0 6.3rem 4.3rem 6.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #F2F2F2;
+}
+.trang-ch .hnh-phc-vbn-tnh-con-ngi-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .container-16 {
+  border-radius: 5.3rem;
+  background: #F8D8D8;
+  position: relative;
+  margin: 0 4.4rem 7rem 4.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 1.1rem 0rem 1.2rem 0;
+  width: 42.3rem;
+  box-sizing: border-box;
+}
+.trang-ch .image-11 {
+  background: url('../assets/images/image2.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 4.3rem;
+  width: 28.7rem;
+  height: 39.8rem;
+}
+.trang-ch .hnh-phc-khng-ch-lmt-trng-thi-tm-thi-mcn-lmt-hnh-trnh-lin-tc-mcon-ngi-cthtc-thng-qua-scn-bng-gia-nhiu-kha-cnh-khc-nhau-ca-cuc-sng-1 {
+  margin: 0 0.6rem 2.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .line-21 {
+  background: #000000;
+  margin: 0 0.4rem 2.3rem 0;
+  width: 37.4rem;
+  height: 0.1rem;
+}
+.trang-ch .gi-bn-360001-cun-1 {
+  margin: 0.7rem 2.5rem 4.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .line-31 {
+  background: #000000;
+  margin-right: 4.2rem;
+  width: 0.1rem;
+  height: 9.9rem;
+}
+.trang-ch .nm-xut-bn-20231 {
+  margin: 0.7rem 0 4.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2rem;
+  color: #000000;
+}
+.trang-ch .container-29 {
+  margin-left: 0.9rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .container-26 {
+  margin-top: 17.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.trang-ch .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 116rem;
+  box-sizing: border-box;
+}
+.trang-ch .image-21 {
+  background: url('../assets/images/image2.png') 50% / cover no-repeat;
+  transform: rotate(22.646deg);
+  position: absolute;
+  left: 28.5rem;
+  bottom: 3.8rem;
+  width: 41.8rem;
+  height: 47.8rem;
+}
+.trang-ch .sch-5 {
+  background: url('../assets/images/rectangle6.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  padding: 2.8rem 12.9rem 4.5rem 4.9rem;
+  box-sizing: border-box;
+}
+.trang-ch .frame-5 {
+  margin: 0 0 4.6rem 3.8rem;
+  display: flex;
+  flex-direction: row;
+  width: 668.8rem;
+  box-sizing: border-box;
+}
+.trang-ch .best-sellers-in-books {
+  margin: 0 0 2.3rem 7rem;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 4rem;
+  color: #000000;
+}
+.trang-ch .image-5 {
+  background: url('../assets/images/image212.png') 50% / cover no-repeat;
+  margin: 0 5.1rem 0.6rem 0;
+  width: 29rem;
+  height: 31.7rem;
+}
+.trang-ch .image-6 {
+  background: url('../assets/images/image6.png') 50% / cover no-repeat;
+  margin: 0.6rem 7.4rem 0 0;
+  width: 29.4rem;
+  height: 31.7rem;
+}
+.trang-ch .image-7 {
+  background: url('../assets/images/image213.png') 50% / cover no-repeat;
+  margin: 0 9.1rem 0.6rem 0;
+  width: 26.5rem;
+  height: 31.7rem;
+}
+.trang-ch .image-8 {
+  background: url('../assets/images/image8.png') 50% / cover no-repeat;
+  margin-bottom: 1.9rem;
+  width: 26.7rem;
+  height: 30.4rem;
+}
+.trang-ch .container-21 {
+  margin: 0 6.4rem 2.2rem 4.9rem;
+  display: flex;
+  flex-direction: row;
+  width: 133.2rem;
+  box-sizing: border-box;
+}
+.trang-ch .kip-no-ta-cng-tm-thy-nhau-99000 {
+  margin: 0 5.5rem 0.6rem 0;
+  width: 28.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.kip-no-ta-cng-tm-thy-nhau-99000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.trang-ch .tng-cngi-yu-ti-nh-sinh-mnh-126350 {
+  margin-top: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.tng-cngi-yu-ti-nh-sinh-mnh-126350 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.trang-ch .mti-mt-kip-giang-nam-lo-120000 {
+  padding-left: 11.5rem;
+  margin-top: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.mti-mt-kip-giang-nam-lo-120000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.tht-tch-khng-ma-86000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.trang-ch .tht-tch-khng-ma-86000 {
+  padding-left: 16.5rem;
+  margin-top: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .container-11 {
+  justify-content: flex-start;
+  margin: 0 6.3rem 3.2rem 4.9rem;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  width: 133.2rem;
+  box-sizing: border-box;
+}
+.trang-ch .combo-books {
+  margin: 0 0 3.4rem 3.3rem;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 4rem;
+  color: #000000;
+}
+.trang-ch .image-17 {
+  background: url('../assets/images/image17.png') 50% / cover no-repeat;
+  margin: 0 5.1rem 1.1rem 0;
+  width: 31.7rem;
+  height: 42.7rem;
+  margin-left: 3rem;
+  margin-bottom: 0;
+}
+.trang-ch .image-18 {
+  background: url('../assets/images/image18.png') 50% / cover no-repeat;
+  margin: 0.1rem 5.5rem 0 0;
+  width: 29.4rem;
+  height: 43.7rem;
+}
+.trang-ch .image-19 {
+  background: url('../assets/images/image19.png') 50% / cover no-repeat;
+  margin: 0.6rem 5.3rem 1.1rem 0;
+  width: 30.9rem;
+  height: 42.1rem;
+}
+.trang-ch .image-20 {
+  background: url('../assets/images/image211.png') 50% / cover no-repeat;
+  margin: 0.1rem 0 1.1rem 0;
+  width: 30.1rem;
+  height: 42.6rem;
+}
+.trang-ch .container {
+  margin: 0 4.3rem 1.2rem 2.2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  width: 137.9rem;
+  box-sizing: border-box;
+}
+.trang-ch .comboo-tnh-b-2-tp-250250 {
+  white-space: nowrap;
+  color: red;
+  margin: 0.6rem 6rem 1rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.comboo-tnh-b-2-tp-250250 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.combo-2-cun-ngn-tnhng-gia-tiu-miu-all-in-love-ngp-trn-yu-thng-238500 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.trang-ch .combo-2-cun-ngn-tnhng-gia-tiu-miu-all-in-love-ngp-trn-yu-thng-238500 {
+  padding-left: 1rem;
+  margin: 1.6rem 2.9rem 0 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .gi-nam-hiu-lng-ti-b-2-tp-157000 {
+  padding-left: 0.9rem;
+  margin: 1rem 4.2rem 0.6rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.gi-nam-hiu-lng-ti-b-2-tp-157000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.trang-ch .vng-trm-yu-anh-tp-12178000 {
+  margin-right: -1rem;
+  margin-bottom: 1.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+  padding-right: 4rem;
+}
+.vng-trm-yu-anh-tp-12178000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.trang-ch .container-25 {
+  margin: 0 4.7rem 13.3rem 2.2rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .image-36 {
+  background: url('../assets/images/image36.png') 50% / cover no-repeat;
+  margin: 0 5.1rem 16.9rem 5.1rem;
+  width: 134.3rem;
+  height: 48.3rem;
+}
+.trang-ch .rectangle-14 {
+  background: url('../assets/images/rectangle14.jpeg') 50% / cover no-repeat;
+  margin-bottom: 3.7rem;
+  width: 144.4rem;
+  height: 24.5rem;
+}
+.trang-ch .image-13 {
+  background: url('../assets/images/image13.png') 50% / cover no-repeat;
+  margin-right: 4.3rem;
+  width: 32.3rem;
+  height: 46.4rem;
+}
+.trang-ch .image-14 {
+  background: url('../assets/images/image14.png') 50% / cover no-repeat;
+  margin-right: 5.6rem;
+  width: 30.7rem;
+  height: 46.4rem;
+}
+.trang-ch .image-15 {
+  background: url('../assets/images/image15.png') 50% / cover no-repeat;
+  margin-right: 4.3rem;
+  width: 33rem;
+  height: 46.4rem;
+}
+.trang-ch .image-16 {
+  background: url('../assets/images/image16.png') 50% / cover no-repeat;
+  width: 28.4rem;
+  height: 46.4rem;
+}
+.trang-ch .container-7 {
+  margin: 0 0.9rem 4.1rem 4.9rem;
+  display: flex;
+  flex-direction: row;
+  width: 138.6rem;
+  box-sizing: border-box;
+}
+.trang-ch .thi-nnh-ming-y {
+  margin: 0.6rem 1.4rem 0.4rem 0;
+  display: inline-block;
+  width: 35.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .mtnmsng-tt {
+  margin-top: 0.9rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .tr-nlnminh-kh-c {
+  margin: 0.4rem 0 0.6rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .lnnh-tchuy-ni {
+  margin: 0 0rem 0.9rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .container-8 {
+  margin: 0 3.5rem 2.9rem 4.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 136rem;
+  box-sizing: border-box;
+}
+.trang-ch .container {
+  margin: 0.8rem 0;
+    display: flex;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 2.3rem;
+    color: #FC0303;
+    text-decoration: none;
+  margin: 1.6rem 1.4rem 0 0;
+  /* width: 35.3rem; */
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #FC0303;
+}
+.container {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.trang-ch .container-1 {
+  display: flex;
+  margin: 0.8rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  /* color: #FC0303; */
+}
+.container-1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.trang-ch .container-2 {
+  margin: 0.8rem 0;
+  display: flex;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #FC0303;
+}
+.trang-ch .container-3 {
+  margin: 2rem 0rem 1.6rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #FC0303;
+}
+.trang-ch .container-18 {
+  margin: 0 4.9rem 8.1rem 4.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 119.1rem;
+  box-sizing: border-box;
+}
+.trang-ch .line-6 {
+  background: #815C5C;
+  margin-bottom: 9.3rem;
+  width: 144.4rem;
+  height: 0.1rem;
+}
+.trang-ch .dch-v {
+  margin: 0 1.4rem 0.3rem 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .htr {
+  margin-top: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .ktnimng-xhi {
+  padding-left: 40rem;
+  margin: 0.3rem 0rem 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .container-9 {
+  margin: 0 8.6rem 1.1rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 129.4rem;
+  box-sizing: border-box;
+}
+.trang-ch .iu-khon-sdng {
+  margin: 1.2rem 1.4rem 0.1rem 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .hng-dnt-hng {
+  margin-top: 1.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .path-14 {
+  transform: scaleX(-1) rotate(180deg);
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.trang-ch .facebook-fill {
+  margin-bottom: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.trang-ch .vector-5 {
+  width: 2.9rem;
+  height: 2rem;
+}
+.trang-ch .youtube-fill {
+  margin: 0.3rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.9rem;
+  height: 2rem;
+  box-sizing: border-box;
+}
+.trang-ch .vector-6 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.trang-ch .instagram-fill {
+  margin-top: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.trang-ch .container-12 {
+  padding-left: 27rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2.2rem;
+  width: 12.5rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.trang-ch .container-15 {
+  margin: 0 6.5rem 2.5rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: flex-start;
+  width: 117.8rem;
+  box-sizing: border-box;
+}
+.trang-ch .chnh-sch-bo-mt {
+  margin-right: 1.4rem;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .chnh-schi-tr-hon-tin {
+  white-space: nowrap;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .container-17 {
+  margin: 0 6.5rem 2.4rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 86.3rem;
+  box-sizing: border-box;
+}
+.trang-ch .lin-h-1 {
+  margin: 0.2rem 1.4rem 0 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .chnh-sch-vn-chuyn {
+  white-space: nowrap;
+  margin-bottom: 0.2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .container-13 {
+  margin: 0 6.5rem 2.3rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 79.5rem;
+  box-sizing: border-box;
+}
+.trang-ch .hthng-nh-sch {
+  margin: 0.3rem 1.4rem 0 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .phng-thc-thanh-ton {
+  white-space: nowrap;
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .container-1 {
+  margin: 0.8rem 0;
+    display: flex;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 2.3rem;
+    color: #FC0303;
+    text-decoration: none;
+  margin: 0 6.5rem 2.1rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 80.6rem;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.trang-ch .tra-cun-hng {
+  margin: 0.5rem 1.4rem 0 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .chnh-sch-khch-hng {
+  white-space: nowrap;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.trang-ch .container-30 {
+  margin: 0 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 79.6rem;
+  box-sizing: border-box;
+}
+.trang-ch {
+  background: #F7F6DD;
+  display: flex;
+  flex-direction: column;
+  padding: 0.9rem 0 3.3rem 0;
+  width: 144.4rem;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.w {
+  font-size: 3.5rem;
+  position: absolute;
+    top: 32%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}

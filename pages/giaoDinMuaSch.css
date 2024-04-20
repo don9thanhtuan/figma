@@ -1,0 +1,1321 @@
+html {
+  font-size: 10.45px; /* Thiết lập kích thước phông chữ cho phần tử gốc là 8px */
+}
+
+.giao-din-mua-sch .ho-du-book {
+  margin: 0 3.3rem 1.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .trang-ch {
+  margin: 2.8rem 4.4rem 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.giao-din-mua-sch .ca-hng {
+  margin: 2.8rem 0.3rem 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.giao-din-mua-sch .vector {
+  width: 0.7rem;
+  height: 0.4rem;
+}
+.giao-din-mua-sch .uangle-down {
+  margin: 3.6rem 0 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.7rem;
+  height: 0.4rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .vchng-ti {
+  margin: 2.8rem 4.2rem 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.giao-din-mua-sch .lin-hvi-chng-ti {
+  margin-top: 2.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-19 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 66.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .vector-1 {
+  width: 2.1rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .uheart-sign {
+  margin: 1rem 2.5rem 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.1rem;
+  height: 1.6rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .vector-2 {
+  width: 1.9rem;
+  height: 1.8rem;
+}
+.giao-din-mua-sch .ushopping-cart-alt {
+  margin: 0.9rem 2.2rem 0.9rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.8rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .lin-h {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.giao-din-mua-sch .group-1 {
+  border-radius: 1.3rem;
+  background: #FFB7B7;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.9rem 0.1rem 0.9rem 0;
+  width: 11.1rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .ng-xut {
+  margin: 0.9rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-21 {
+  margin: 1.9rem 0rem 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 31.7rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-9 {
+  margin: 0 6.4rem 2.1rem 2.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 135.6rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .line-1 {
+  background: #A9A0A0;
+  margin: 0 6.9rem 6.9rem 2.4rem;
+  width: 135.1rem;
+  height: 0.1rem;
+}
+.giao-din-mua-sch .image-21 {
+  background: url('../assets/images/image21.jpeg') 50% / cover no-repeat;
+  margin: 0.3rem 3.7rem 53.1rem 0;
+  width: 15.8rem;
+  height: 24.9rem;
+}
+.giao-din-mua-sch .image-20 {
+  background: url('../assets/images/image21.jpeg') 50% / cover no-repeat;
+  margin-right: 5.7rem;
+  width: 47.9rem;
+  height: 78.3rem;
+}
+.giao-din-mua-sch .ki-pnota-cng-tmth-ynhau {
+  margin-right: 1.4rem;
+  width: 61.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .vector-3 {
+  width: 3rem;
+  height: 2.5rem;
+}
+.giao-din-mua-sch .uheart {
+  margin: 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 3rem;
+  height: 2.5rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-32 {
+  margin: 0 0.9rem 1.7rem 0.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 65.6rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .star-1 {
+  border-radius: 0.1rem;
+  margin: 0 0.3rem 0.8rem 0;
+  width: 2.9rem;
+  height: 3.1rem;
+}
+.giao-din-mua-sch .star-2 {
+  border-radius: 0.1rem;
+  margin: 0 0.4rem 0.8rem 0;
+  width: 2.9rem;
+  height: 3.1rem;
+}
+.giao-din-mua-sch .star-3 {
+  border-radius: 0.1rem;
+  margin: 0 0.4rem 0.8rem 0;
+  width: 2.7rem;
+  height: 3.1rem;
+}
+.giao-din-mua-sch .star-4 {
+  border-radius: 0.1rem;
+  margin: 0 0.3rem 0.8rem 0;
+  width: 2.9rem;
+  height: 3.1rem;
+}
+.giao-din-mua-sch .star-5 {
+  border-radius: 0.1rem;
+  margin: 0 1.9rem 0.8rem 0;
+  width: 2.9rem;
+  height: 3.1rem;
+}
+.giao-din-mua-sch .nh-gi {
+  margin: 0.4rem 2.1rem 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .line-10 {
+  background: #000000;
+  margin-top: 0.6rem;
+  width: 0.4rem;
+  height: 3.3rem;
+}
+.giao-din-mua-sch .container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .bn-1113 {
+  margin: 0.4rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-11 {
+  margin: 0 0.2rem 1.8rem 0.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 51.1rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .line-11 {
+  background: #000000;
+  margin: 0 0 3.4rem 0.2rem;
+  width: 66.6rem;
+  height: 0.1rem;
+}
+.giao-din-mua-sch .container-1 {
+  margin: 0 0.2rem 3.9rem 0.2rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #F30B0B;
+}
+.giao-din-mua-sch .line-12 {
+  background: #000000;
+  margin: 0 0.1rem 4.6rem 0.1rem;
+  width: 66.6rem;
+  height: 0.1rem;
+}
+.giao-din-mua-sch .msch-2651656 {
+  margin: 0 0.1rem 1.7rem 0.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .tc-gi-brian-lweiss {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-33 {
+  margin-top: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .thng {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 3.1rem;
+  color: #FFFFFF;
+}
+.giao-din-mua-sch .container-3 {
+  border-radius: 2.1rem;
+  background: rgba(243, 95, 62, 0.8);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.8rem 0 1.7rem 0;
+  width: 22.9rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container {
+  margin: 0 2.4rem 1.7rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 64.2rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .khun-kh-14-x-205-cm {
+  margin: 0 0.2rem 1.7rem 0.2rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .strang-290 {
+  margin: 0 0.3rem 1.7rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .nh-dng-ba-mm {
+  margin: 0 0.3rem 1.7rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .nm-xut-bn-2019 {
+  margin: 0 0.2rem 1.7rem 0.2rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .cng-ty-pht-hnh-thi-h {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-34 {
+  margin: 2.6rem 0 21.4rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-16 {
+  margin: 0 3.4rem 5rem 1.2rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .mt {
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-31 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 0.2rem;
+  padding: 1.3rem 2.9rem 1rem 2.9rem;
+  width: 144.4rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .kip-no-ta-cng-tm-thy-nhau-lcun-sch-th-ba-ca-brain-lweiss-mt-nh-tm-thn-hc-cting-trcng-vit-hai-cun-sch-cunu-tin-lmnh-tkip-trc-cun-sch-mtcu-chuyn-ctht-vmt-bnh-nhn-tr-tui-cng-vi-nhng-liu-php-thi-min-vkip-trc-lm-thayi-ccuci-tc-gi-ln-cy-cun-sch-bn-chy-trn-ton-th-gii-vi-hn-2-triu-bn-in-vc-dch-sang-hn-20-ngn-ng-cun-sch-th-hai-through-time-into-healingi-qua-thi-gian-cha-lnh-mtnhng-gtc-gi-hcc-vtim-nng-cha-bnh-ca-liu-php-hi-quy-tin-kip-trong-cun-schu-lnhng-cu-chuyn-ngi-tht-vic-tht-nhng-cu-chuyn-hp-dn-nht-li-nm-trong-cun-sch-th-ba-kip-no-ta-cng-tm-thy-nhau-ni-vnhng-linh-hn-tri-knhng-ngi-cmi-lin-kt-vnh-vin-vi-nhau-bng-tnh-yu-thng-lun-gp-li-nhau-ht-ln-nyn-ln-khc-qua-ht-kip-ny-ti-kip-khc-chng-ta-stm-thy-vnhn-ra-tri-kca-mnh-nh-th-no-ria-ra-nhng-quytnh-lm-thayi-cuc-sng-ca-chnh-mnh-ra-sao-lnhng-khonh-khc-quan-trng-vxcng-nht-trong-cuci-mi-ngi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-22 {
+  background: rgba(165, 165, 165, 0.22);
+  position: relative;
+  margin-bottom: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.8rem 3.3rem 1.3rem 2.4rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .nh-gi {
+  margin: 0 3.5rem 2.4rem 3.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .ellipse-1 {
+  border-radius: 2.3rem;
+  background: url('../assets/images/ellipse11.jpeg') 50% / cover no-repeat;
+  margin-right: 1.8rem;
+  width: 4.6rem;
+  height: 4.6rem;
+}
+.giao-din-mua-sch .star-6 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-7 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-8 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.3rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-9 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-10 {
+  border-radius: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .container-27 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: row;
+  width: 7.2rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .duyn-cao {
+  margin-right: 0.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-15 {
+  margin: 0.7rem 2.1rem 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-2 {
+  margin: 0.8rem 0 2.3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-4 {
+  margin: 0 3.5rem 1.8rem 3.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .truyn-rt-hay {
+  margin: 0 3.3rem 2.8rem 3.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .ellipse-2 {
+  border-radius: 2.3rem;
+  background: url('../assets/images/ellipse2.png') 50% / cover no-repeat;
+  margin-right: 1.8rem;
+  width: 4.6rem;
+  height: 4.6rem;
+}
+.giao-din-mua-sch .star-11 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-12 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-13 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.3rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-14 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-15 {
+  border-radius: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .container-12 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: row;
+  width: 7.2rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .ngc-huy {
+  margin-right: 1.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-38 {
+  margin: 0.7rem 2.9rem 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-3 {
+  margin: 0.7rem 0 2.4rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-5 {
+  margin: 0 2.8rem 1.8rem 2.8rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .gi-thnh-rt-rph-hp-ti-tin {
+  margin: 0 3.3rem 2.3rem 3.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .ellipse-3 {
+  border-radius: 2.3rem;
+  background: url('../assets/images/ellipse3.png') 50% / cover no-repeat;
+  margin-right: 1.8rem;
+  width: 4.6rem;
+  height: 4.6rem;
+}
+.giao-din-mua-sch .star-16 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-17 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-18 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.3rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-19 {
+  border-radius: 0.1rem;
+  margin-right: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .star-20 {
+  border-radius: 0.1rem;
+  width: 1.4rem;
+  height: 1.6rem;
+}
+.giao-din-mua-sch .container-18 {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: row;
+  width: 7.2rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .khnh-linh {
+  margin-right: 0.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-25 {
+  margin: 0.7rem 2.9rem 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-4 {
+  margin: 0.7rem 0 2.4rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-1 {
+  margin: 0 2.8rem 1.8rem 2.8rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .rt-vui-vi-cht-lng-sn-phm {
+  margin: 0 3.3rem 1.8rem 3.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .line-14 {
+  background: #000000;
+  margin: 3.1rem 1.8rem 1.4rem 0;
+  width: 37.6rem;
+  height: 0.4rem;
+}
+.giao-din-mua-sch .products-related-to-this-item {
+  margin-right: 1.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 4rem;
+  color: #000000;
+}
+.giao-din-mua-sch .line-15 {
+  background: #000000;
+  margin: 3.1rem 0 1.4rem 0;
+  width: 35.4rem;
+  height: 0.4rem;
+}
+.giao-din-mua-sch .container-36 {
+  margin-bottom: 4.1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .image-32 {
+  background: url('../assets/images/image32.png') 50% / cover no-repeat;
+  margin: 0.3rem 9.6rem 0 0;
+  width: 27.9rem;
+  height: 43.5rem;
+}
+.giao-din-mua-sch .image-33 {
+  background: url('../assets/images/image33.png') 50% / cover no-repeat;
+  margin: 0 6.3rem 0.3rem 0;
+  width: 27.5rem;
+  height: 43.5rem;
+}
+.giao-din-mua-sch .image-34 {
+  background: url('../assets/images/image34.png') 50% / cover no-repeat;
+  margin: 0 3.5rem 0.3rem 0;
+  width: 33.9rem;
+  height: 43.5rem;
+}
+.giao-din-mua-sch .image-35 {
+  background: url('../assets/images/image35.png') 50% / cover no-repeat;
+  margin-bottom: 0.3rem;
+  width: 30.1rem;
+  height: 43.5rem;
+}
+.giao-din-mua-sch .container-13 {
+  margin: 0 2.1rem 1.8rem 3.5rem;
+  display: flex;
+  flex-direction: row;
+  width: 138.9rem;
+  box-sizing: border-box;
+}
+.bn-xe-76000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.giao-din-mua-sch .bn-xe-76000 {
+  margin: 1.1rem 4.1rem 0 0;
+  width: 31.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .tht-tch-khng-ma-86000 {
+  margin-bottom: 1.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.tht-tch-khng-ma-86000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.giao-din-mua-sch .all-in-love-81100 {
+  margin-top: 1.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.all-in-love-81100 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.nhng-ksi-tnh-78400 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.giao-din-mua-sch .nhng-ksi-tnh-78400 {
+  margin-top: 1.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-30 {
+  margin: 0 12.7rem 13.1rem 5.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 126.7rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .line-16 {
+  background: #000000;
+  margin: 2.4rem 4.6rem 2rem 0;
+  width: 49.1rem;
+  height: 0.4rem;
+}
+.giao-din-mua-sch .viewed-products {
+  margin-right: 4.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 4rem;
+  color: #000000;
+}
+.giao-din-mua-sch .line-17 {
+  background: #000000;
+  margin: 2.7rem 0 1.8rem 0;
+  width: 46.3rem;
+  height: 0.4rem;
+}
+.giao-din-mua-sch .container-10 {
+  margin: 0 1.3rem 1.3rem 0.7rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .image-211 {
+  background: url('../assets/images/image212.png') 50% / cover no-repeat;
+  margin: 0.7rem 10.1rem 0.9rem 0;
+  width: 27.5rem;
+  height: 42.6rem;
+}
+.giao-din-mua-sch .image-212 {
+  background: url('../assets/images/image211.png') 50% / cover no-repeat;
+  margin: 0.7rem 6.6rem 0.9rem 0;
+  width: 30.1rem;
+  height: 42.6rem;
+}
+.giao-din-mua-sch .image-213 {
+  background: url('../assets/images/image213.png') 50% / cover no-repeat;
+  margin: 0.7rem 4.9rem 0.9rem 0;
+  width: 30.8rem;
+  height: 42.6rem;
+}
+.giao-din-mua-sch .image-214 {
+  background: url('../assets/images/image33.png') 50% / cover no-repeat;
+  width: 27.1rem;
+  height: 44.2rem;
+}
+.giao-din-mua-sch .container-29 {
+  margin: 0 4.2rem 2.1rem 3.3rem;
+  display: flex;
+  flex-direction: row;
+  width: 137rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .kip-no-ta-cng-tm-thy-nhau-99000 {
+  margin: 0 9.6rem 2.6rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.kip-no-ta-cng-tm-thy-nhau-99000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.giao-din-mua-sch .vng-trm-yu-anh-tp-12178000 {
+  margin: 0.6rem 3.7rem 2rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.vng-trm-yu-anh-tp-12178000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.mti-mt-kip-giang-nam-lo-120000 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.giao-din-mua-sch .mti-mt-kip-giang-nam-lo-120000 {
+  margin: 1.4rem 6.2rem 1.1rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.tht-tch-khng-ma-860001 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+  color: #F40606;
+}
+.giao-din-mua-sch .tht-tch-khng-ma-860001 {
+  margin-top: 2.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-28 {
+  margin: 0 5rem 6.9rem 4.2rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .line-18 {
+  background: #000000;
+  margin: 2.4rem 3rem 2rem 0;
+  width: 48.9rem;
+  height: 0.4rem;
+}
+.giao-din-mua-sch .same-set-products {
+  margin-right: 3.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 4rem;
+  color: #000000;
+}
+.giao-din-mua-sch .line-19 {
+  background: #000000;
+  margin: 2.4rem 0 2rem 0;
+  width: 45.8rem;
+  height: 0.4rem;
+}
+.giao-din-mua-sch .container-14 {
+  margin: 0 2.1rem 1.9rem 0;
+  display: flex;
+  flex-direction: row;
+  width: 144.4rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .image-28 {
+  background: url('../assets/images/image28.png') 50% / cover no-repeat;
+  margin: 0.4rem 5.1rem 0.1rem 0;
+  width: 32.4rem;
+  height: 46.7rem;
+}
+.giao-din-mua-sch .image-29 {
+  background: url('../assets/images/image29.png') 50% / cover no-repeat;
+  margin-right: 6.6rem;
+  width: 30.3rem;
+  height: 47.1rem;
+}
+.giao-din-mua-sch .image-30 {
+  background: url('../assets/images/image30.png') 50% / cover no-repeat;
+  margin: 0.1rem 4.4rem 1.1rem 0;
+  width: 30.8rem;
+  height: 45.9rem;
+}
+.giao-din-mua-sch .image-31 {
+  background: url('../assets/images/image31.png') 50% / cover no-repeat;
+  margin: 0.4rem 0 1.1rem 0;
+  width: 30.5rem;
+  height: 45.6rem;
+}
+.giao-din-mua-sch .container-6 {
+  margin: 0 1.3rem 2.4rem 3.3rem;
+  display: flex;
+  flex-direction: row;
+  width: 139.9rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .ch-em-ln-nhc-khng {
+  margin: 0.4rem 1.4rem 2.6rem 0;
+  display: inline-block;
+  width: 36.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .sdu-dng-kh-cng {
+  margin: 0.4rem 0 2.6rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .em-vn-thch-cc-chon-khi-canh {
+  margin-top: 0.2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .scm-dcui-cng {
+  margin-bottom: 2.9rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-26 {
+  margin: 0 7.8rem 0.4rem 3.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 133.1rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container {
+  margin: 0.2rem 1.4rem 0.6rem 0;
+  display: inline-block;
+  width: 35.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #FC0303;
+}
+.giao-din-mua-sch .container-5 {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #FC0303;
+}
+.giao-din-mua-sch .container-6 {
+  margin-top: 0.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #FC0303;
+}
+.giao-din-mua-sch .container-7 {
+  margin-top: 0.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #FC0303;
+}
+.giao-din-mua-sch .container-17 {
+  margin: 0 4.2rem 4.6rem 4.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 117.9rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .line-7 {
+  background: #815C5C;
+  margin-bottom: 9.3rem;
+  width: 144.4rem;
+  height: 0.1rem;
+}
+.giao-din-mua-sch .dch-v {
+  margin: 0 1.4rem 0.3rem 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .htr {
+  margin-top: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .ktnimng-xhi {
+  margin-top: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-23 {
+  margin: 0 8.7rem 1.1rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 129.2rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .iu-khon-sdng {
+  margin: 1.2rem 1.4rem 0.1rem 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .hng-dnt-hng {
+  margin-top: 1.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .path-14 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.giao-din-mua-sch .facebook-fill {
+  margin-bottom: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .vector-4 {
+  width: 2.9rem;
+  height: 2rem;
+}
+.giao-din-mua-sch .youtube-fill {
+  margin: 0.3rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.9rem;
+  height: 2rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .vector-5 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.giao-din-mua-sch .instagram-fill {
+  margin-top: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-35 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2.2rem;
+  width: 12.5rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .container-7 {
+  margin: 0 6.5rem 2.5rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 117.8rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .chnh-sch-bo-mt {
+  margin-right: 1.4rem;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .chnh-schi-tr-hon-tin {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-37 {
+  margin: 0 6.5rem 2.4rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 86.3rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .lin-h-1 {
+  margin: 0.2rem 1.4rem 0 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .chnh-sch-vn-chuyn {
+  margin-bottom: 0.2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-20 {
+  margin: 0 6.5rem 2.3rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 79.5rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .hthng-nh-sch {
+  margin: 0.3rem 1.4rem 0 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .phng-thc-thanh-ton {
+  margin-bottom: 0.3rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-24 {
+  margin: 0 6.5rem 2.1rem 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 80.6rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch .tra-cun-hng {
+  margin: 0.5rem 1.4rem 0 0;
+  display: inline-block;
+  width: 53.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .chnh-sch-khch-hng {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.giao-din-mua-sch .container-2 {
+  margin: 0 6.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 79.6rem;
+  box-sizing: border-box;
+}
+.giao-din-mua-sch {
+  background: #F7F6DD;
+  display: flex;
+  flex-direction: column;
+  padding: 0.9rem 0 4.5rem 0;
+  width: 144.4rem;
+  box-sizing: border-box;
+}

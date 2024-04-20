@@ -1,0 +1,227 @@
+html {
+  font-size: 4px; /* Thiết lập kích thước phông chữ cho phần tử gốc là 8px */
+}
+
+.ng-nhp .p-01 {
+  background: url('../assets/images/p01.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.ng-nhp .ng-nhp-1 {
+  margin: 4.8rem 3.5rem 0 0;
+  display: inline-block;
+  width: 59.3rem;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 6rem;
+  color: #000000;
+}
+.ng-nhp .group-1 {
+  width: 4.4rem;
+  height: 5rem;
+}
+.ng-nhp .container-1 {
+  border-radius: 0.9rem 0 0.9rem 0;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 4.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.4rem 0 1.1rem 0.1rem;
+  width: 9.6rem;
+  height: 7.5rem;
+  box-sizing: border-box;
+}
+.ng-nhp .container-3 {
+  position: relative;
+  margin: 0 0 6.3rem 16.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 72.4rem;
+  box-sizing: border-box;
+}
+.ng-nhp .email-2 {
+  margin: 0 2.7rem 2.1rem 0;
+  display: inline-block;
+  width: 55.2rem;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 4.6rem;
+  color: #000000;
+}
+.ng-nhp .vector-1 {
+  margin-top: 2.6rem;
+  width: 3.9rem;
+  height: 2.8rem;
+}
+.ng-nhp .email {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 18.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 2.6rem 2.6rem 4.9rem;
+  width: 69.4rem;
+  box-sizing: border-box;
+}
+.ng-nhp .line-7 {
+  background: #000000;
+  position: relative;
+  margin: 0 19.8rem 6.8rem 0;
+  width: 69.4rem;
+  height: 0.1rem;
+}
+.ng-nhp .email-3 {
+  margin-right: 2.7rem;
+  width: 56.5rem;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 4.6rem;
+  color: #000000;
+}
+.ng-nhp .vector {
+  margin: 2rem 0 0.7rem 0;
+  width: 3.4rem;
+  height: 2.8rem;
+}
+.ng-nhp .email-1 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 19.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.5rem 1.8rem 2.1rem 4.9rem;
+  width: 69.4rem;
+  box-sizing: border-box;
+}
+.ng-nhp .line-8 {
+  background: #000000;
+  position: relative;
+  margin: 0 19.8rem 4.6rem 0;
+  width: 69.4rem;
+  height: 0.1rem;
+}
+.ng-nhp .rectangle-51 {
+  border-radius: 0.1rem;
+  background: #FFFEFE;
+  width: 2.5rem;
+  height: 2.3rem;
+}
+.ng-nhp .rectangle-5 {
+  margin: 0.6rem 1.8rem 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.ng-nhp .nh-mt-khu {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 3.3rem;
+  color: #000000;
+}
+.ng-nhp .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.ng-nhp .qun-mt-khu {
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 3.3rem;
+  color: #000000;
+}
+.ng-nhp .container-4 {
+  position: relative;
+  margin: 0 24.8rem 5.3rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 62.9rem;
+  box-sizing: border-box;
+}
+.ng-nhp .ng-nhp-2 {
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 4.8rem;
+  color: #000000;
+}
+.ng-nhp .container-5 {
+  background: linear-gradient(180deg, #FEF56A 0%, #FFDCDC 147%);
+  position: relative;
+  margin: 0 14.6rem 8.5rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.5rem 3.7rem 1.3rem 0;
+  width: 69.4rem;
+  box-sizing: border-box;
+}
+.ng-nhp .khng-nh-ti-khon {
+  margin-right: 1.8rem;
+  width: 45.1rem;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 3rem;
+  color: #000000;
+}
+.ng-nhp .ng-kngay {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'HYWenHei', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 3rem;
+  color: #000000;
+}
+.ng-nhp .container-2 {
+  position: relative;
+  margin-right: 16.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 62.6rem;
+  box-sizing: border-box;
+}
+.ng-nhp .rectangle-75 {
+  background: rgba(165, 165, 165, 0.1);
+  position: absolute;
+  right: 154.2rem;
+  bottom: 69.4rem;
+  width: 26.1rem;
+  height: 8.3rem;
+}
+.ng-nhp .rectangle-74 {
+  background: rgba(165, 165, 165, 0.22);
+  position: absolute;
+  top: 50.1rem;
+  right: 140.9rem;
+  width: 95.4rem;
+  height: 85.9rem;
+}
+.ng-nhp {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50.1rem 0 71.9rem 0;
+  width: 394.4rem;
+  box-sizing: border-box;
+}
