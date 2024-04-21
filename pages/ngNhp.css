@@ -1,5 +1,12 @@
 html {
   font-size: 4px; /* Thiết lập kích thước phông chữ cho phần tử gốc là 8px */
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  margin: 0;
+  padding: 0;
 }
 
 .ng-nhp .p-01 {
@@ -72,6 +79,7 @@ html {
   padding: 0 2.6rem 2.6rem 4.9rem;
   width: 69.4rem;
   box-sizing: border-box;
+  z-index: 2;
 }
 .ng-nhp .line-7 {
   background: #000000;
@@ -104,6 +112,7 @@ html {
   padding: 0.5rem 1.8rem 2.1rem 4.9rem;
   width: 69.4rem;
   box-sizing: border-box;
+  z-index: 2;
 }
 .ng-nhp .line-8 {
   background: #000000;
@@ -155,6 +164,7 @@ html {
   justify-content: space-between;
   width: 62.9rem;
   box-sizing: border-box;
+  z-index: 2;
 }
 .ng-nhp .ng-nhp-2 {
   overflow-wrap: break-word;
@@ -173,6 +183,7 @@ html {
   padding: 1.5rem 3.7rem 1.3rem 0;
   width: 69.4rem;
   box-sizing: border-box;
+  z-index: 2;
 }
 .ng-nhp .khng-nh-ti-khon {
   margin-right: 1.8rem;
@@ -199,6 +210,7 @@ html {
   justify-content: space-between;
   width: 62.6rem;
   box-sizing: border-box;
+  z-index: 2;
 }
 .ng-nhp .rectangle-75 {
   background: rgba(165, 165, 165, 0.1);
@@ -212,7 +224,7 @@ html {
   background: rgba(165, 165, 165, 0.22);
   position: absolute;
   top: 50.1rem;
-  right: 140.9rem;
+  right: 147.5rem;
   width: 95.4rem;
   height: 85.9rem;
 }
@@ -221,7 +233,8 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 50.1rem 0 71.9rem 0;
+  padding: 50.1rem 0 39.9rem 0;
   width: 394.4rem;
   box-sizing: border-box;
+  width: 100%;
 }

@@ -1,3 +1,13 @@
+html {
+  font-size: 8.45px; /* Thiết lập kích thước phông chữ cho phần tử gốc là 8px */
+}
+
+body {
+  width: 100%;
+    margin: 0;
+    height: 100%;
+}
+
 .chi-titn-hng .rectangle-18 {
   background: #E8EBEC;
   position: absolute;
@@ -150,6 +160,7 @@
   justify-content: space-between;
   width: 137.8rem;
   box-sizing: border-box;
+  width: 96%;
 }
 .chi-titn-hng .line-1 {
   background: #A9A0A0;
@@ -174,7 +185,7 @@
 }
 .chi-titn-hng .container {
   margin: 0 0.1rem 3.6rem 0.1rem;
-  display: inline-block;
+  display: flex;
   align-self: flex-start;
   overflow-wrap: break-word;
   font-family: 'Inter';
@@ -191,6 +202,7 @@
   font-weight: 400;
   font-size: 2.3rem;
   color: #000000;
+  white-space: nowrap;
 }
 .chi-titn-hng .container-2 {
   position: relative;
@@ -213,13 +225,14 @@
 }
 .chi-titn-hng .container-3 {
   position: relative;
-  margin-bottom: 0.1rem;
-  display: inline-block;
+  /* margin-bottom: 0.1rem; */
+  display: flex;
   overflow-wrap: break-word;
   font-family: 'Inter';
   font-weight: 400;
   font-size: 2.3rem;
-  color: #000000;
+  margin-top: 0;
+  color: black;
 }
 .chi-titn-hng .container-1 {
   margin-bottom: 3.4rem;
@@ -250,10 +263,10 @@
   margin: 0 0.1rem;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-self: flex-start;
   width: 24.9rem;
   box-sizing: border-box;
+  justify-content: flex-end;
 }
 .chi-titn-hng .container-8 {
   margin: 1.1rem 17.5rem 24.5rem 0;
@@ -306,6 +319,7 @@
   justify-content: space-between;
   width: 52.9rem;
   box-sizing: border-box;
+  justify-content: flex-end;
 }
 .chi-titn-hng .gim-gi {
   margin-right: 1.4rem;
@@ -387,18 +401,17 @@
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  padding: 4.4rem 3rem 6.6rem 0;
-  width: 63.3rem;
+  padding: 0rem 0rem 0rem 0rem;
+  width: 15.3rem;
   box-sizing: border-box;
 }
 .chi-titn-hng .container-4 {
-  margin-top: 1.1rem;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 63.3rem;
-  height: fit-content;
-  box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    width: 63.3rem;
+    height: fit-content;
+    box-sizing: border-box;
 }
 .chi-titn-hng .container-5 {
   display: flex;
@@ -411,7 +424,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0.9rem 1.2rem 2.5rem 1.2rem;
+  padding: 0.9rem 1.2rem 8.5rem 1.2rem;
   width: 146.8rem;
   box-sizing: border-box;
+}
+
+.ok {
+  
 }
